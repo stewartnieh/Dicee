@@ -1,2 +1,2 @@
 # Dicee
-An iod dice app
+An ios dice app
